@@ -65,6 +65,8 @@
 ###
 - I´m a passionate frontend developer from Germany, near Ludwigsburg
 
+- I am currently working at Haugundpartner in Esslingen
+
 - 🌱 I’m currently learning **Electron, Express**
 
 - 👨‍💻 All of my projects are available at [https://fabian-griessbach-personal-portfolio.netlify.app/](https://fabian-griessbach-personal-portfolio.netlify.app/)

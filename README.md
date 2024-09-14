@@ -69,7 +69,7 @@
 
 - 🌱 I’m currently learning **Electron, Express**
 
-- 👨‍💻 All of my projects are available at [https://fabian-griessbach-personal-portfolio.netlify.app/](https://fabian-griessbach-personal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fabian-griessbach-personal-portfolio.netlify.app/](https://fabian-griessbach-personal-portfolio.netlify.app/)  (data is not current)
 
 - 💬 Ask me about **JS, CSS, SCSS, HTML**
 

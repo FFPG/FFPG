@@ -87,7 +87,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/FFPG/FFPG/output/snake.svg" alt="Snake animation" />
-
-###

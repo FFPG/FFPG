@@ -63,7 +63,7 @@
 </div>
 
 ###
-- I´m a passionate frontend developer from Germany, near Ludwigsburg
+- I´m a passionate webdeveloper developer from Germany, near Ludwigsburg
 
 - I am currently working at Haugundpartner in Esslingen
 

@@ -63,15 +63,17 @@
 </div>
 
 ###
-- I´m a passionate webdeveloper developer from Germany, near Ludwigsburg
+- I´m a passionate webdeveloper developer from Germany, near Ludwigsburg.
 
-- I am currently working at Haugundpartner in Esslingen
+- Between 2023 and beginning of 2025 i´d worked at Haugundpartner in Esslingen.
 
-- 🌱 I’m currently learning **Electron, Express**
+- I´m currently studing Media Informatics at "Hochschule der Medien" in Stuttgart.
 
-- 👨‍💻 All of my projects are available at [https://fabian-griessbach-personal-portfolio.netlify.app/](https://fabian-griessbach-personal-portfolio.netlify.app/)  (data is not current)
+- 🌱 I’m currently learning **ElectronJs, ExpressJs and Java**
 
-- 💬 Ask me about **JS, CSS, SCSS, HTML**
+- 👨‍💻 Some of my projects are available at [https://fabian-griessbach-personal-portfolio.netlify.app/](https://fabian-griessbach-personal-portfolio.netlify.app/)  (data is not current)
+
+- 💬 Ask me about **JS, CSS, SCSS, HTML, PHP**
 
 
 ###
